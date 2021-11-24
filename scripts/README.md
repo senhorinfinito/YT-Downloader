@@ -24,7 +24,7 @@ To start downloading clone the repository & to fulfill pre-requisites run follow
     After running  provide proper inputs mentioned below
     * Enter the save path:  ***Enter your save path***   ex . ```C:\Users\myuser\Desktop\videos```
     * Input vide URL : ***Enter playlist URL copied from YouTube***  ex:- ```https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3```
-    * Please enter the quality : ***please enter the video resolution such as 144,240,360,480,720,1080,1440 etc.***
+    * Please enter the quality : ***please enter the video resolution such as ```144,240,360,480,720,1080,1440``` etc.***
 
   - To download multiple videos using .txt files
     * refer following steps to download multiple videos
@@ -32,4 +32,4 @@ To start downloading clone the repository & to fulfill pre-requisites run follow
     run ```multiple_video_pytube.py```
     * Enter the save path:  ***Enter your save path***   ex . ```C:\Users\myuser\Desktop\videos```
     * Input txt path : ***Enter text file where all URL copied from YouTube***  
-    * Please enter the quality : ***please enter the video resolution such as 144,240,360,480,720,1080,1440 etc.***
+    * Please enter the quality : ***please enter the video resolution such as ```144,240,360,480,720,1080,1440``` etc.***
