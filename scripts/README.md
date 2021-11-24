@@ -11,7 +11,7 @@ To start downloading clone the repository & to fulfill pre-requisites run follow
     ```python video_pytube.py```
 
     It will ask for following things shown with a sample example.
-    * Enter the save path:  ***Enter your save path***  ex . ```C:\Users\azureuser\Desktop\videos```
+    * Enter the save path:  ***Enter your save path***  ex . ```C:\Users\myuser\Desktop\videos```
     * Input vide URL : ***Enter video URL copied from YouTube***  ex.```https://youtu.be/2NIytNJr6hw```
     * Please enter the quality : ***please enter the video resolution such as ```144,240,360,480,720,1080,1440``` etc.***
 
@@ -22,7 +22,7 @@ To start downloading clone the repository & to fulfill pre-requisites run follow
     ```python playlist_pytube.py```
     
     After running  provide proper inputs mentioned below
-    * Enter the save path:  ***Enter your save path***   ex . ```C:\Users\azureuser\Desktop\videos```
+    * Enter the save path:  ***Enter your save path***   ex . ```C:\Users\myuser\Desktop\videos```
     * Input vide URL : ***Enter playlist URL copied from YouTube***  ex:- ```https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3```
     * Please enter the quality : ***please enter the video resolution such as 144,240,360,480,720,1080,1440 etc.***
 
@@ -30,6 +30,6 @@ To start downloading clone the repository & to fulfill pre-requisites run follow
     * refer following steps to download multiple videos
     First needs to copy all video links into a '.txt' file. refer ```sample.txt``` for input file format.
     run ```multiple_video_pytube.py```
-    * Enter the save path:  ***Enter your save path***   ex . ```C:\Users\azureuser\Desktop\videos```
+    * Enter the save path:  ***Enter your save path***   ex . ```C:\Users\myuser\Desktop\videos```
     * Input txt path : ***Enter text file where all URL copied from YouTube***  
     * Please enter the quality : ***please enter the video resolution such as 144,240,360,480,720,1080,1440 etc.***
