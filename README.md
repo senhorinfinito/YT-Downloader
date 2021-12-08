@@ -8,7 +8,7 @@ You can check the demo shown below how to download a video from it.
 
 ![gif](https://github.com/senhorinfinito/YT-Downloader/blob/main/sample_video/sample_gif.gif)
 
-Also you can visit here to download more videos
+Also you can visit here to download more videos.
 
 ### Links 
 URL : [YouTube Downloader](https://youtube-downloader-python.herokuapp.com/)
