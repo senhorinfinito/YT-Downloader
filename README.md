@@ -11,7 +11,7 @@ You can check the demo shown below how to download a video from it.
 Also you can visit here to download more videos.
 
 ### Links 
-URL : [YouTube Downloader](https://youtube-downloader-python.herokuapp.com/)
+URL : [Check out web app here](https://youtube-downloader-python.herokuapp.com/)
 
 This web app deployed on the heroku platform. 
 
