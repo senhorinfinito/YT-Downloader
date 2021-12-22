@@ -5,7 +5,7 @@ This repository is complete web of YouTube video download. I have used pytube & 
 ### Interface 
 You can check the demo shown below how to download a video from it.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------
 ![gif](https://github.com/senhorinfinito/YT-Downloader/blob/main/sample_video/sample_gif.gif)
 
 Also you can visit here to download more videos.
